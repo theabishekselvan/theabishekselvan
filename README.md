@@ -67,6 +67,8 @@
 
 <img src="https://raw.githubusercontent.com/theabishekselvan/theabishekselvan/output/snake.svg" alt="Snake animation" />
 
+[![](https://visitcount.itsvg.in/api?id=theabishekselvan&icon=5&color=0)](https://visitcount.itsvg.in)
+
 ###
 
 <picture>
