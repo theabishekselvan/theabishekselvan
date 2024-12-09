@@ -1,4 +1,4 @@
-<img src="helloworld.png" alt="GitHub Banner" width="100%" />
+<img src="hello-world.png" alt="GitHub Banner" width="100%" />
 
 <h2 align="left">Hi 👋! I'm Abishek from Chennai, India.  I was an Analyst in the past.  I'm currently working on my front-end skills through various projects</h2>
 
